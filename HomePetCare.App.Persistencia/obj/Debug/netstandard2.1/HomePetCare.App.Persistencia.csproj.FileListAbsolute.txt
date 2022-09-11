@@ -1,0 +1,12 @@
+C:\veterinarioEnCasa\HomePetCare.App\HomePetCare.App.Persistencia\obj\Debug\netstandard2.1\HomePetCare.App.Persistencia.csprojAssemblyReference.cache
+C:\veterinarioEnCasa\HomePetCare.App\HomePetCare.App.Persistencia\obj\Debug\netstandard2.1\HomePetCare.App.Persistencia.AssemblyInfoInputs.cache
+C:\veterinarioEnCasa\HomePetCare.App\HomePetCare.App.Persistencia\obj\Debug\netstandard2.1\HomePetCare.App.Persistencia.AssemblyInfo.cs
+C:\veterinarioEnCasa\HomePetCare.App\HomePetCare.App.Persistencia\obj\Debug\netstandard2.1\HomePetCare.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\veterinarioEnCasa\HomePetCare.App\HomePetCare.App.Persistencia\bin\Debug\netstandard2.1\HomePetCare.App.Persistencia.deps.json
+C:\veterinarioEnCasa\HomePetCare.App\HomePetCare.App.Persistencia\bin\Debug\netstandard2.1\HomePetCare.App.Persistencia.dll
+C:\veterinarioEnCasa\HomePetCare.App\HomePetCare.App.Persistencia\bin\Debug\netstandard2.1\HomePetCare.App.Persistencia.pdb
+C:\veterinarioEnCasa\HomePetCare.App\HomePetCare.App.Persistencia\bin\Debug\netstandard2.1\HomePetCare.App.Dominio.dll
+C:\veterinarioEnCasa\HomePetCare.App\HomePetCare.App.Persistencia\bin\Debug\netstandard2.1\HomePetCare.App.Dominio.pdb
+C:\veterinarioEnCasa\HomePetCare.App\HomePetCare.App.Persistencia\obj\Debug\netstandard2.1\HomePetCare.App.Persistencia.csproj.CopyComplete
+C:\veterinarioEnCasa\HomePetCare.App\HomePetCare.App.Persistencia\obj\Debug\netstandard2.1\HomePetCare.App.Persistencia.dll
+C:\veterinarioEnCasa\HomePetCare.App\HomePetCare.App.Persistencia\obj\Debug\netstandard2.1\HomePetCare.App.Persistencia.pdb

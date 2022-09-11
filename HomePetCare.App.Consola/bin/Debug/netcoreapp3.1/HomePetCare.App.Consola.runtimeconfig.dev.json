@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pf2go\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pf2go\\.nuget\\packages"
+    ]
+  }
+}

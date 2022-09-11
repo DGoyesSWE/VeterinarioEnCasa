@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yvcXhCQOYq+JjWRYNpi6O3sD5ZAsPsp/YRazAcLPgMY0eLLQl415Z3G6vzbW73iqQa57eOjtd+fkUVxuSGw2Qw==",
+  "success": true,
+  "projectFilePath": "C:\\VeterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pf2go\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pf2go\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
