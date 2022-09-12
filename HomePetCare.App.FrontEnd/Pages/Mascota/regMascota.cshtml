@@ -1,0 +1,151 @@
+﻿@page
+@model HomePetCare.App.Frontend.Page.regMascotaModel
+@{
+}
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Registro Mascota</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- <link rel="manifest" href="site.webmanifest"> -->
+    <link rel="shortcut icon" type="../image/x-icon" href="../img/favicon.png">
+    <!-- Place favicon.ico in the root directory -->
+
+    <!-- CSS here -->
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../css/magnific-popup.css">
+    <link rel="stylesheet" href="../css/font-awesome.min.css">
+    <link rel="stylesheet" href="../css/themify-icons.css">
+    <link rel="stylesheet" href="../css/nice-select.css">
+    <link rel="stylesheet" href="../css/flaticon.css">
+    <link rel="stylesheet" href="../css/gijgo.css">
+    <link rel="stylesheet" href="../css/animate.css">
+    <link rel="stylesheet" href="../css/slicknav.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/custom.css">
+    <!-- <link rel="stylesheet" href="css/responsive.css"> -->
+</head>
+
+<body>
+    <!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+
+    <!-- header_start  -->
+    <header>
+       
+    </header>
+    <!-- header_start  -->
+
+    <!-- bradcam_area_start -->
+    <div class="bradcam_area breadcam_bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="bradcam_text text-center">
+                        <h3>Registro de Mascota</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- bradcam_area_end -->
+
+    <!--================Blog Area =================-->
+    <section class="blog_area single-post-area section-padding">
+        <div class="container">
+            <div class="row contenedorformulario">
+                <div class="col-lg-8 posts-list">
+                    <div class="row">
+                        <div class="col-12">
+                            <h2 class="contact-title">Datos De La Mascota</h2>
+                        </div>
+                        <div class="col-lg-11">
+                            <form class="form-contact contact_form" action="contact_process.php" method="post"
+                                id="contactForm" novalidate="novalidate">
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <input class="form-control valid" name="cod" id="cod" type="text"
+                                                onfocus="this.placeholder = ''"
+                                                onblur="this.placeholder = 'Codigo de la mascota'"
+                                                placeholder="Codigo de la mascota">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <input class="form-control valid" name="nombreM" id="nombreM" type="text"
+                                                onfocus="this.placeholder = ''"
+                                                onblur="this.placeholder = 'Nombre de la mascota'"
+                                                placeholder="Nombre de la mascota">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <input class="form-control valid" name="raza" id="raza" type="text"
+                                                onfocus="this.placeholder = ''" onblur="this.placeholder = 'Raza'"
+                                                placeholder="Raza">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <input class="form-control valid" name="edad" id="edad" type="number"
+                                                onfocus="this.placeholder = ''" onblur="this.placeholder = 'Edad'"
+                                                placeholder="Edad">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <input class="form-control valid" name="peso" id="peso" type="number"
+                                                onfocus="this.placeholder = ''" onblur="this.placeholder = 'Peso'"
+                                                placeholder="Peso">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <input class="form-control valid" name="color" id="color" type="text"
+                                                onfocus="this.placeholder = ''" onblur="this.placeholder = 'Color'"
+                                                placeholder="Color">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <input class="form-control valid" name="sexo" id="sexo" type="text"
+                                                onfocus="this.placeholder = ''" onblur="this.placeholder = 'Sexo'"
+                                                placeholder="Sexo">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <input class="form-control valid" name="tamano" id="tamano" type="number"
+                                                onfocus="this.placeholder = ''" onblur="this.placeholder = 'Tamaño'"
+                                                placeholder="Tamaño">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="form-group mt-3">
+                                    <button type="submit" class="button button-contactform boxed-btn">Crear</button>
+                                    <button type="submit"
+                                        class="button button-contactForm boxed-btn">Actualizar</button>
+                                    <button type="submit" class="button button-contactForm boxed-btn">Eliminar</button>
+                                    <button type="submit" class="button button-contactForm boxed-btn">Cancelar</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--================ Blog Area end =================-->
+
+    
+</body>
+
+</html>

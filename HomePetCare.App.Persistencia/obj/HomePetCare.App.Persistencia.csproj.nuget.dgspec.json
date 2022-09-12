@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VeterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj": {}
+    "C:\\veterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\VeterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj": {
+    "C:\\veterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VeterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj",
+        "projectUniqueName": "C:\\veterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj",
         "projectName": "HomePetCare.App.Dominio",
-        "projectPath": "C:\\VeterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\pf2go\\.nuget\\packages\\",
-        "outputPath": "C:\\VeterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Dominio\\obj\\",
+        "projectPath": "C:\\veterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Personal\\.nuget\\packages\\",
+        "outputPath": "C:\\veterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pf2go\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Personal\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -53,21 +53,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\VeterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj": {
+    "C:\\veterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VeterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\veterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj",
         "projectName": "HomePetCare.App.Persistencia",
-        "projectPath": "C:\\VeterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\pf2go\\.nuget\\packages\\",
-        "outputPath": "C:\\VeterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Persistencia\\obj\\",
+        "projectPath": "C:\\veterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Personal\\.nuget\\packages\\",
+        "outputPath": "C:\\veterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pf2go\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Personal\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -78,8 +78,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\VeterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj": {
-                "projectPath": "C:\\VeterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj"
+              "C:\\veterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj": {
+                "projectPath": "C:\\veterinarioEnCasa\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj"
               }
             }
           }
@@ -129,7 +129,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -3,7 +3,7 @@ namespace HomePetCare.App.Dominio
 {
     public class Visita
     {
-        public string Id {get;set;}
+        public string Id{get;set;}
         public float Temperatura{get;set;}
         public float Peso{get;set;}
         public float FrecuenciaRespiratoria{get;set;}

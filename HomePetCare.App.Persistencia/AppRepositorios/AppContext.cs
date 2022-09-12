@@ -14,9 +14,7 @@ namespace HomePetCare.App.Persistencia
         {
             if(!optionsBuilder.IsConfigured)
             {
-                optionsBuilder
-                
-                .UseSqlServer("Data source = (localdb)\\MSSQLLocalDB; Initial catalog = HomePetCareData");
+                optionsBuilder.UseSqlServer("Data source = (localdb)\\MSSQLLocalDB; Initial catalog = HomePetCareData");
             }
         }
     } 
